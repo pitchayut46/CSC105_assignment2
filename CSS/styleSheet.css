@@ -1,6 +1,6 @@
 .aboutMyself {
     font-family: Arial;
-    font-size: 17px;
+    font-size: 20px;
     padding: 0px;
     margin-bottom: 5px;
 }
@@ -21,7 +21,7 @@
     background-image: linear-gradient(
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5)
-      ), url(/EX_CSS_BIG/IMG/tumblr_2c2cc2ba0d0accad3b21afe7e5bb0cc1_fa497026_400.gif);
+      ), url(/CSC105_assignment2/IMG/tumblr_2c2cc2ba0d0accad3b21afe7e5bb0cc1_fa497026_400.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: cover;
