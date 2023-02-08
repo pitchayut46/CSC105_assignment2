@@ -1,0 +1,77 @@
+.aboutMyself {
+    font-family: Arial;
+    font-size: 17px;
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+.nav {
+    position: relative;
+    font-family: sans-serif; 
+    color: rgb(22, 181, 81, 255); 
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+
+}
+
+.container {
+    position: relative;
+    /* background-color: rgb(212, 212, 212); */
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ), url(/EX_CSS_BIG/IMG/tumblr_2c2cc2ba0d0accad3b21afe7e5bb0cc1_fa497026_400.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: max-content; */
+    /* border: 3px solid rgb(108, 108, 108); */
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    /* padding-right: 100px; */
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.infor {
+    position: absolute;
+    font-family: Arial;
+    margin-left: 45%;
+    margin-right: 15%;
+    font-size: 1vw;
+    color: rgb(255, 255, 255);
+    
+}
+
+.imag {
+    width: 30%;
+    height: 30%;
+    max-width: 30%;
+    /* float: left; */
+    margin: 30px;
+    border-radius: 20px;
+    border:5px solid rgb(255, 255, 255);
+
+}
+
+.name{
+    font-size: 1.7vw;
+    font-family: sans-serif;
+    position: relative;
+}
+
+.head{
+    text-align: center;
+    font-size: 10px;
+    background-color: black;
+    color: aliceblue;
+    margin: -10px -10px 40px -10px;
+    padding: 1px;
+}
+
